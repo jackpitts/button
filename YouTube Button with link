@@ -1,0 +1,23 @@
+<style>
+  .bottone {
+            cursor: pointer;
+            margin-left: 50em;
+        }
+
+        .bottone {
+            width: 120px;
+            height: 50px;
+            background-color: #FF0000;
+            background-image: url('image url');
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-size: 200px 125px;
+            width: 80;
+            border-radius: 7px;
+            margin-left: 50em;
+            margin-top: 5em;
+
+        }
+        
+        <div class="bottone"
+        onclick="location.href='link youtube channel'" div>
